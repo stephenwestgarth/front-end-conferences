@@ -113,6 +113,10 @@ Bochum, **Germany**
 23-27 October, 2017  
 München, **Germany**
 
+[**CodeFrontEnd - Design, Development and UX Conference**](http://www.codefrontend.co.uk)  
+31st October - 1st November 2017 
+Chester, **UK**
+
 [**HalfStack 2017**](http://halfstackconf.com/)  
 17 November, 2017  
 London, **England**
@@ -120,6 +124,10 @@ London, **England**
 [**React Native EU 2017**](http://react-native.eu/)  
 Fall 2017  
 Wroclaw, **Poland**
+
+[**CodeMobile - Android and iOS Developer Conference**](http://www.mobile.co.uk)  
+2nd - 5th April 2018
+Chester, **UK**
 
 ## Middle East
 
